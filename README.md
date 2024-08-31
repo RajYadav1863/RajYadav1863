@@ -3,7 +3,7 @@
 
 - 🔭 I’m @RajYadav1863.
 - 🌱 I’m currently learning C,C++,DSA.
-- ⚡ I’m interested in Web Development,Competitive Programming.
+- ⚡ I’m interested in Web Development.
 - 👯 I’m looking to collaborate on ...
 - 📫 How to reach me: ...
 
